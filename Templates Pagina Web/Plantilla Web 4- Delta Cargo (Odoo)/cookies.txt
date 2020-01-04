@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.deltacargosrl.com	TRUE	/	FALSE	1999999999	__cfduid	d8bd7362ba628eb5a2f7d7bdb1675dfb51567803061
+www.deltacargosrl.com	TRUE	/	FALSE	1999999999	frontend_lang	es_ES
+www.deltacargosrl.com	TRUE	/	FALSE	1999999999	session_id	167fca664bb79baebe01e15577fd4a3eeba67843
+

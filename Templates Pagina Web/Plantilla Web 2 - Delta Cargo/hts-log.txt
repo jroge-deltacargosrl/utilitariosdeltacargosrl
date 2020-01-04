@@ -1,0 +1,254 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 Aug 2019 17:25:58 at https://www.twill.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.twill.net/ -O1 "D:\Templates Web\Plantilla Web 2 - Delta Cargo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:26:00	Warning: 	Note: due to https://www.twill.net remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+17:26:22	Error: 	"Method Not Allowed" (405) at link https://www.twill.net/xmlrpc.php (from https://www.twill.net/)
+17:27:59	Error: 	"Not Found" (404) at link https://www.twill.net/wp-content/themes/twill/owl.video.play.png (from https://www.twill.net/wp-content/themes/twill/style.css?ver=3929ea1a071c8d5772d3331c61b1a270)
+17:28:01	Warning: 	Moved Permanently for https://www.twill.net/?p=12
+17:28:01	Warning: 	File has moved from https://www.twill.net/?p=12 to https://www.twill.net/what-is-twill/
+17:28:02	Warning: 	Moved Permanently for https://www.twill.net/?p=31
+17:28:02	Warning: 	File has moved from https://www.twill.net/?p=31 to https://www.twill.net/our-team/
+17:28:03	Warning: 	Moved Permanently for https://www.twill.net/?p=33
+17:28:03	Warning: 	File has moved from https://www.twill.net/?p=33 to https://www.twill.net/blog/
+17:30:44	Warning: 	Moved Permanently for https://www.twill.net/?p=35
+17:30:44	Warning: 	File has moved from https://www.twill.net/?p=35 to https://www.twill.net/career/
+17:30:44	Warning: 	Moved Permanently for https://www.twill.net/?p=8354
+17:30:44	Warning: 	File has moved from https://www.twill.net/?p=8354 to https://www.twill.net/contact/
+17:30:45	Warning: 	Moved Permanently for https://www.twill.net/?p=7223
+17:30:45	Warning: 	File has moved from https://www.twill.net/?p=7223 to https://www.twill.net/blog/incoterms/
+17:30:46	Warning: 	Moved Permanently for https://www.twill.net/?p=7191
+17:30:46	Warning: 	File has moved from https://www.twill.net/?p=7191 to https://www.twill.net/blog/smes/
+17:30:46	Warning: 	Moved Permanently for https://www.twill.net/?p=7158
+17:30:46	Warning: 	File has moved from https://www.twill.net/?p=7158 to https://www.twill.net/blog/freight-costs/
+17:30:46	Warning: 	Moved Permanently for https://www.twill.net/?p=7087
+17:30:46	Warning: 	File has moved from https://www.twill.net/?p=7087 to https://www.twill.net/blog/freight-documents/
+17:30:46	Warning: 	Moved Permanently for https://www.twill.net/?p=7060
+17:30:46	Warning: 	File has moved from https://www.twill.net/?p=7060 to https://www.twill.net/blog/peak-periods-in-logistics/
+17:30:46	Warning: 	Moved Permanently for https://www.twill.net/?p=4766
+17:30:46	Warning: 	File has moved from https://www.twill.net/?p=4766 to https://www.twill.net/blog/customer-care-not-just-customer-care-team/
+17:30:46	Warning: 	Moved Permanently for https://www.twill.net/?p=8188
+17:30:46	Warning: 	File has moved from https://www.twill.net/?p=8188 to https://www.twill.net/twill/terms-and-conditions/
+17:30:47	Warning: 	Moved Permanently for https://www.twill.net/?p=66
+17:30:47	Warning: 	File has moved from https://www.twill.net/?p=66 to https://www.twill.net/cookie-statement/
+17:30:48	Warning: 	Moved Permanently for https://www.twill.net/?p=69
+17:30:48	Warning: 	File has moved from https://www.twill.net/?p=69 to https://www.twill.net/digital-freight-forwarding/
+17:30:50	Warning: 	Moved Permanently for https://www.twill.net/?p=88
+17:30:50	Warning: 	File has moved from https://www.twill.net/?p=88 to https://www.twill.net/shipping-container/
+17:30:50	Error: 	"Not Found" (404) at link https://www.twill.net/this.context.doc.referrer (from https://snap.licdn.com/li.lms-analytics/insight.min.js)
+17:30:50	Error: 	"Not Found" (404) at link https://www.twill.net/auth/api/users/signup (from https://www.twill.net/wp-content/themes/twill/assets/js/javascript.js)
+17:30:50	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.twill.net/wp-content/themes/twill/assets/js/javascript.js)
+17:30:50	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7777
+17:30:50	Warning: 	File has moved from https://www.twill.net/es/?p=7777 to https://www.twill.net/es/que-es-twill/
+17:30:50	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7780
+17:30:50	Warning: 	File has moved from https://www.twill.net/es/?p=7780 to https://www.twill.net/es/our-team/
+17:30:50	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7750
+17:30:50	Warning: 	File has moved from https://www.twill.net/es/?p=7750 to https://www.twill.net/es/blog/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7970
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7970 to https://www.twill.net/blog/blog-trading-india/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7239
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7239 to https://www.twill.net/istock_000001868194large-1200x800/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7269
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7269 to https://www.twill.net/preparefor2018/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7247
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7247 to https://www.twill.net/screen-shot-2017-12-07-at-12-06-15-1197x1200/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7969
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7969 to https://www.twill.net/blog/blog-diversity-in-logistics/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7968
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7968 to https://www.twill.net/blog/blog-trading-uk/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7967
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7967 to https://www.twill.net/blog/blog-trading-china/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7966
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7966 to https://www.twill.net/blog/blog-trading-usa/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7189
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7189 to https://www.twill.net/blog/sales-person/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7175
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7175 to https://www.twill.net/blog/twill-launches-in-brazil/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6625
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6625 to https://www.twill.net/blog/all-door-to-door-combinations-now-available-on-twill/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7043
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7043 to https://www.twill.net/blog/containers/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=7148
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=7148 to https://www.twill.net/blog/womeninlogistics/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6997
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6997 to https://www.twill.net/blog/think-ahead-this-chinese-new-year/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6696
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6696 to https://www.twill.net/blog/when-delays-strike-twill-is-there-to-help/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6683
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6683 to https://www.twill.net/blog/twill-brings-the-new-standard-of-shipping-to-smes-in-canada/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6661
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6661 to https://www.twill.net/blog/taking-twill-global/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6650
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6650 to https://www.twill.net/blog/twill-extends-service-offering/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6616
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6616 to https://www.twill.net/blog/bringing-twill-to-australia/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6600
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6600 to https://www.twill.net/blog/twill-continues-global-expansion/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6570
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6570 to https://www.twill.net/blog/digital-freight-forwarder-twill-co-creates-with-nordics-customers/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6442
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6442 to https://www.twill.net/blog/twill-changes-brand-affiliation-from-damco-to-maersk/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6426
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6426 to https://www.twill.net/blog/how-twill-embraced-agile/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6396
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6396 to https://www.twill.net/blog/business-development-twill-a-thriving-partnership/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6391
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6391 to https://www.twill.net/blog/the-life-of-twills-head-of-people/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6320
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6320 to https://www.twill.net/blog/the-life-of-an-infrastructure-developer/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6314
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6314 to https://www.twill.net/blog/behind-the-scenes-designing-the-twill-experience/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6310
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6310 to https://www.twill.net/blog/digital-freight-forwarder-enters-thailand-and-malaysia/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6301
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6301 to https://www.twill.net/blog/twill-cible-les-petites-et-moyennes-entreprises-en-france/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6259
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6259 to https://www.twill.net/blog/twill-targets-small-and-medium-sized-customers-in-france/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6215
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6215 to https://www.twill.net/blog/the-life-of-a-twill-marketer/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=5415
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=5415 to https://www.twill.net/blog/a-day-in-the-life-of-our-customer-care-team-part-1/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=5920
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=5920 to https://www.twill.net/blog/day-sale/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6162
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6162 to https://www.twill.net/blog/roxy-twills-chief-entertainer/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6195
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6195 to https://www.twill.net/blog/damco-pioneers-industry-first-digital-freight-forwarding-platform/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6094
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6094 to https://www.twill.net/blog/twill-made-shipping-simple-for-nova-leathers/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/?p=6026
+17:30:55	Warning: 	File has moved from https://www.twill.net/?p=6026 to https://www.twill.net/blog/twill-time-management-tips/
+17:30:55	Warning: 	Moved Permanently for https://www.twill.net/twill-tips-managing-your-time-and-workload/
+17:30:55	Warning: 	File has moved from https://www.twill.net/twill-tips-managing-your-time-and-workload/ to https://www.twill.net/blog/twill-tips-managing-your-time-and-workload
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=6000
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=6000 to https://www.twill.net/blog/how-twill-can-help-end-your-lengthy-email-chains/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5995
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5995 to https://www.twill.net/blog/work-with-twill-and-you-work-with-the-best/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5903
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5903 to https://www.twill.net/blog/benelux-expansion/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5932
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5932 to https://www.twill.net/blog/anniversary/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5910
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5910 to https://www.twill.net/blog/pre-book/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5589
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5589 to https://www.twill.net/blog/day-life-customer-care-team-part-2/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5983
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5983 to https://www.twill.net/blog/twill-tips-managing-your-time-and-workload/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5935
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5935 to https://www.twill.net/blog/technology-anniversary/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5894
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5894 to https://www.twill.net/blog/collaborating-customers-build-better-platform/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=3687
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=3687 to https://www.twill.net/blog/twill-indonesia/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5503
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5503 to https://www.twill.net/blog/twill-continues-ambitious-global-expansion-india/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5863
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5863 to https://www.twill.net/blog/building-trust-digital-platform-driven-real-people/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5844
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5844 to https://www.twill.net/blog/us-expansion/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5751
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5751 to https://www.twill.net/blog/origin-process-ensuring-safe-passage-cargo/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5343
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5343 to https://www.twill.net/blog/forecasting-shipments-why-you-need-to-do-it-and-how-you-can-do-it-better/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5686
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5686 to https://www.twill.net/blog/women-in-logistics/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5652
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5652 to https://www.twill.net/blog/mexico-digital-freight-forwarding-platform/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5639
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5639 to https://www.twill.net/blog/distruption/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5622
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5622 to https://www.twill.net/blog/pick-right-carrier-cargo/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5614
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5614 to https://www.twill.net/blog/failure/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/from-a-to-b-just-how-do-we-do-it/
+17:30:56	Warning: 	File has moved from https://www.twill.net/from-a-to-b-just-how-do-we-do-it/ to https://www.twill.net/blog/from-a-to-b-just-how-do-we-do-it
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5389
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5389 to https://www.twill.net/blog/we-dont-know-its-impossible/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=3872
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=3872 to https://www.twill.net/blog/completely-twilled/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=1
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=1 to https://www.twill.net/blog/agile-management/
+17:30:56	Warning: 	Moved Permanently for https://www.twill.net/?p=5383
+17:30:56	Warning: 	File has moved from https://www.twill.net/?p=5383 to https://www.twill.net/blog/from-a-to-b-just-how-do-we-do-it/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4587
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4587 to https://www.twill.net/blog/3-things-need-prepared-2018-twill-can-help/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=3863
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=3863 to https://www.twill.net/blog/our-little-product-secret/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=5241
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=5241 to https://www.twill.net/blog/productfeatures2018/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4801
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4801 to https://www.twill.net/blog/2017-well-crazy-year/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=5183
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=5183 to https://www.twill.net/blog/strategic-award/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4145
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4145 to https://www.twill.net/blog/the-winning-formula/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=5103
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=5103 to https://www.twill.net/blog/blockchain-technology/
+17:30:57	Error: 	"Not Found" (404) at link https://www.twill.net/wp-content/uploads/2018/01/infographics2017-01-427x480.png (from https://www.twill.net/blog/blockchain-technology/)
+17:30:57	Error: 	"Not Found" (404) at link https://www.twill.net/wp-content/uploads/2018/01/Screen-Shot-2018-01-09-at-13.54.28-480x420.png (from https://www.twill.net/blog/blockchain-technology/)
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4869
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4869 to https://www.twill.net/blog/big-data/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4856
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4856 to https://www.twill.net/blog/supplier-initiated-booking/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4849
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4849 to https://www.twill.net/blog/changing-the-definition/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4703
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4703 to https://www.twill.net/blog/4703-2/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4476
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4476 to https://www.twill.net/blog/the-difficulty-with-simplicity/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4473
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4473 to https://www.twill.net/blog/lost-track-container/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4152
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4152 to https://www.twill.net/blog/local-strength-global-reach/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=4149
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=4149 to https://www.twill.net/blog/seamless-simplicity/
+17:30:57	Error: 	"Not Found" (404) at link https://www.twill.net/wp-content/uploads/2017/11/11120160112Damco-Leadership-Conference-2017-By-Michiel-Ton-HR1001879-1024x683-480x320.jpg (from https://www.twill.net/blog/the-winning-formula/)
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=3867
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=3867 to https://www.twill.net/blog/twill-a-new-country/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=3869
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=3869 to https://www.twill.net/blog/building-tech-organization/
+17:30:57	Error: 	"Not Found" (404) at link https://www.twill.net/wp-content/uploads/2017/11/rsz_120170907_130022-480x270.jpg (from https://www.twill.net/blog/building-tech-organization/)
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=3875
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=3875 to https://www.twill.net/blog/customer-care-startup/
+17:30:57	Error: 	"Not Found" (404) at link https://www.twill.net/wp-content/uploads/2017/11/Logo-300x33.png (from https://www.twill.net/blog/customer-care-startup/)
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=3882
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=3882 to https://www.twill.net/blog/twill-at-multimodal/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=3878
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=3878 to https://www.twill.net/blog/now-available-to-uk-customers/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/?p=569
+17:30:57	Warning: 	File has moved from https://www.twill.net/?p=569 to https://www.twill.net/blog/every-day-is-today/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7747
+17:30:57	Warning: 	File has moved from https://www.twill.net/es/?p=7747 to https://www.twill.net/es/carrera/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7755
+17:30:57	Warning: 	File has moved from https://www.twill.net/es/?p=7755 to https://www.twill.net/es/blog/incoterms/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7761
+17:30:57	Warning: 	File has moved from https://www.twill.net/es/?p=7761 to https://www.twill.net/es/blog/smes/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7765
+17:30:57	Warning: 	File has moved from https://www.twill.net/es/?p=7765 to https://www.twill.net/es/declaracion-de-cookie/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7768
+17:30:57	Warning: 	File has moved from https://www.twill.net/es/?p=7768 to https://www.twill.net/es/expedicion-de-carga-digital/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7784
+17:30:57	Warning: 	File has moved from https://www.twill.net/es/?p=7784 to https://www.twill.net/es/shipping-container/
+17:30:57	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7758
+17:30:57	Warning: 	File has moved from https://www.twill.net/es/?p=7758 to https://www.twill.net/es/blog/sales-person/
+17:30:57	Error: 	"Not Found" (404) at link https://www.twill.net/?page_id=3831&gh_jid=1479385 (from https://www.twill.net/es/blog/sales-person/)
+17:30:57	Error: 	"Not Found" (404) at link https://www.twill.net/?page_id=3831&gh_jid=1452949 (from https://www.twill.net/es/blog/sales-person/)
+17:30:57	Error: 	"Not Found" (404) at link https://www.twill.net/?page_id=3831&gh_jid=1479374 (from https://www.twill.net/es/blog/sales-person/)
+17:30:57	Error: 	"Not Found" (404) at link https://www.twill.net/?page_id=3831&gh_jid=1455925 (from https://www.twill.net/es/blog/sales-person/)
+17:30:58	Warning: 	Moved Permanently for https://www.twill.net/es/?p=7805
+17:30:58	Warning: 	File has moved from https://www.twill.net/es/?p=7805 to https://www.twill.net/es/blog/twill-se-lanza-en-brasil-para-simplificar-la-logistica/
+17:30:58	Error: 	"Not Found" (404) at link https://www.twill.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.twill.net%2Fes%2Fblog%2Ftwill-se-lanza-en-brasil-para-simplificar-la-logistica%2F (from https://www.twill.net/es/blog/twill-se-lanza-en-brasil-para-simplificar-la-logistica/)
+17:30:58	Error: 	"Not Found" (404) at link https://www.twill.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.twill.net%2Fes%2Fblog%2Ftwill-se-lanza-en-brasil-para-simplificar-la-logistica%2F&format=xml (from https://www.twill.net/es/blog/twill-se-lanza-en-brasil-para-simplificar-la-logistica/)
+17:30:58	Warning: 	Moved Permanently for https://www.twill.net/istock_000001868194large-1200x800/
+17:30:58	Warning: 	Warning moved treated for https://www.twill.net/istock_000001868194large-1200x800/ (real one is https://www.twill.net/wp-content/uploads/iStock_000001868194Large-1200x800.jpg)
+17:30:58	Warning: 	Moved Permanently for https://www.twill.net/preparefor2018/
+17:30:58	Warning: 	Warning moved treated for https://www.twill.net/preparefor2018/ (real one is https://www.twill.net/wp-content/uploads/preparefor2018.jpg)
+17:30:58	Warning: 	Moved Permanently for https://www.twill.net/screen-shot-2017-12-07-at-12-06-15-1197x1200/
+17:30:58	Warning: 	Warning moved treated for https://www.twill.net/screen-shot-2017-12-07-at-12-06-15-1197x1200/ (real one is https://www.twill.net/wp-content/uploads/Screen-Shot-2017-12-07-at-12.06.15-1197x1200.jpg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 0 seconds : 713 links scanned, 582 files written (20159108 bytes overall) [16873299 bytes received at 56244 bytes/sec], 6476802 bytes transferred using HTTP compression in 374 files, ratio 35%, 24.1 requests per connection
+(16 errors, 227 warnings, 0 messages)

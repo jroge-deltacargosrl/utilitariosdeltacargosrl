@@ -1,0 +1,5 @@
+servidor: deltaserver.database.windows.net
+database: deltadb
+
+username: deltasa
+password: Delta123#

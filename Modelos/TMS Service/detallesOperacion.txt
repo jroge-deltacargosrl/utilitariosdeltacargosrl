@@ -1,0 +1,34 @@
+una operacion tiene una cotizacion
+ruta macro por paises
+ruta por ciudades
+modo de embarque consolidado o full (LTL o FTL)
+varios clientes en un solo camion
+cada operacion tiene muchos muchisimos camiones con su descripcion
+flete costo lo que cobra el chofer
+flete costo total
+flete venta al cliente
+descripcion
+tipo de mercaderia
+tipos de embalaje: suelto, paletizado(en palets) y bultos(en cajas)
+cantidad de bultos=cantidad tipos de embalaje
+IMO: si la carga explota o no GRADO o NO APLICA
+Tipo carga remontable
+valor en SUS
+INCOTERMS: codigos de comercio exterior FCA u otro POLITICAS ESTABLECIDAS
+LUGAR: empresa
+TRAMOS=RUTA: desde abc hasta xyz
+transbordo yesNo
+Documentos (Embarcacion, nro B/L o Factura Comercial,etc)
+3 Contactos: Proveedor, CLiente, Agencia
+
+Tipos de despacho: Nacionalizacion en frontera, pago anticipado, varios
+  Recinto aduanero: Frontera desaguadero NACIONALIZACION LUGAR (depende del tipo de despacho)
+
+Se deja la carga en distintos almacene
+tomador del seguro cliente o delta cargo
+forma de pago al contado o a credito
+
+			GUARDAR TRES DATOS: DESDE LUGAR Y ORIGEN
+
+
+

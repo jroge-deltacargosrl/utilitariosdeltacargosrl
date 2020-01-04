@@ -1,0 +1,4 @@
+urlOdooCloudDev = https://deltacargo-deltaw-515413.dev.odoo.com
+dbCloudDev = deltacargo-deltaw-515413
+usernameCloudDev = deltacargomanuel2019@gmail.com
+passwordCloudDev = delta011235813

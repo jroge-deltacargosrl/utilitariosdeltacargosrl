@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+Servidor
+: deltacargosql.database.windows.net
+=======
+servidor: deltacargosql.database.windows.net
+database: DeltaDB
+>>>>>>> 66de8c7b7a16feef6c74387aa0701c9d6f7e12ed
+
+User
+:     deltasa
+
+Password: 
+Delta123#
+
+
+Database: 
+DeltaDB

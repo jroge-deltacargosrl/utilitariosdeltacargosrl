@@ -1,0 +1,99 @@
+<section id="Steps" class="steps-section">
+                            <h2 class="caption-subject font-black bold uppercase" style="text-align:center;margin:20px 0px 40px 0px;">
+                                @Model.name
+                            </h2>
+                            @{
+                                List<string>
+                                    classTimeLine = new List<string>
+                                        () { "steps-one", "steps-two", "steps-three", "" };
+                            }
+                            <div class="steps-timeline">
+                                <img class="steps-imgCamion" src="~/images/camionDelta.png" alt="" />
+                                @{
+                                    int index = 0;
+                                    foreach (var etapa in Model.stages)
+                                    {
+                                        <div class="@classTimeLine[index++]">
+                                            <img class="steps-img" src="~/images/puntoGray.png" alt="" />
+                                            <div class="portlet light portlet-fit">
+                                                <div class="caption">
+                                                    <label class="caption-subject font-colorDelta bold uppercase"
+                                                           style="margin:10px 0px 0px 0px;">
+                                                        @etapa.name
+                                                    </label>
+                                                </div>
+                                                <div class="portlet-body" style="padding:2px;">
+                                                    <div class="mt-element-list">
+                                                        <div class="mt-list-container list-default"
+                                                             style="padding:5px;">
+                                                            <ul style="padding:0%;margin:0%;">
+                                                                @foreach (var tarea in etapa.tasks)
+                                                                {
+                                                                    @if (tarea.kanbanState == "done")
+                                                                    {
+                                                                        <li class="mt-list-item" style="padding:20px 0px;">
+                                                                            <div class="list-icon-container done">
+                                                                                <i class="icon-check"></i>
+                                                                            </div>
+                                                                            <div class="list-item-content" style="padding:5px 0px 0px 50px;margin:auto 0px auto 0px;">
+                                                                                <h3 class="uppercase bold">
+                                                                                    <a style="font-size:50%;" href="">@tarea.name</a>
+                                                                                </h3>
+                                                                            </div>
+                                                                        </li>
+                                                                    }
+                                                                    else
+                                                                    {
+                                                                        <li class="mt-list-item">
+                                                                            <div class="list-icon-container">
+                                                                                <a href="javascript:;">
+                                                                                    <i class="icon-check"></i>
+                                                                                </a>
+                                                                            </div>
+                                                                            <div class="list-item-content" style="padding:5px 0px 0px 50px;margin:auto 0px auto 0px;">
+                                                                                <h3 class="uppercase bold">
+                                                                                    <a style="font-size:75%;" href="">@tarea.name
+                                                                                </h3>
+                                                                            </div>
+                                                                        </li>
+                                                                    }
+                                                                }
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                }
+                            </div>
+                            <!--<div class="steps-timeline">
+                                <div class="steps-one">
+                                    <img class="steps-img" src="http://placehold.it/50/3498DB/FFFFFF" alt="" />
+                                    <h3 class="steps-name">
+                                        Semantic
+                                    </h3>
+                                    <p class="steps-description">
+                                        The timeline is created using negative margins and a top border.
+                                    </p>
+                                </div>
+                                <div class="steps-two">
+                                    <img class="steps-img" src="http://placehold.it/50/3498DB/FFFFFF" alt="" />
+                                    <h3 class="steps-name">
+                                        Relative
+                                    </h3>
+                                    <p class="steps-description">
+                                        All elements are positioned realtive to the parent. No absolute positioning.
+                                    </p>
+                                </div>
+                                <div class="steps-three">
+                                    <img class="steps-img" src="http://placehold.it/50/3498DB/FFFFFF" alt="" />
+                                    <h3 class="steps-name">
+                                        Contained
+                                    </h3>
+                                    <p class="steps-description">
+                                        The timeline does not extend past the first and last elements.
+                                    </p>
+                                </div>
+                            </div>-->
+                        </section>

@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 Aug 2019 17:17:46 at https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/index_startup.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/index_startup.html -O1 "D:\Templates Web\Plantilla Web 1 - Delta Cargo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:20:00	Error: 	"Not Found" (404) at link https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/fonts/glyphicons-halflings-regular.eot (from https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/css/theme.css)
+17:20:01	Error: 	"Not Found" (404) at link https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/fonts/glyphicons-halflings-regular.eot? (from https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/css/theme.css)
+17:21:04	Error: 	"Not Found" (404) at link https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/fonts/glyphicons-halflings-regular.woff2 (from https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/css/theme.css)
+17:21:05	Error: 	"Not Found" (404) at link https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/fonts/glyphicons-halflings-regular.woff (from https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/css/theme.css)
+17:21:06	Error: 	"Not Found" (404) at link https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/fonts/glyphicons-halflings-regular.ttf (from https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/css/theme.css)
+17:21:06	Error: 	"Not Found" (404) at link https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/fonts/glyphicons-halflings-regular.svg (from https://simpleqode-wb.bitbucket.io/wolfram/3.0.1/assets/css/theme.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 3 seconds : 66 links scanned, 59 files written (8435981 bytes overall), no files updated [42237 bytes received at 70 bytes/sec], 1.7 requests per connection
+(6 errors, 0 warnings, 0 messages)

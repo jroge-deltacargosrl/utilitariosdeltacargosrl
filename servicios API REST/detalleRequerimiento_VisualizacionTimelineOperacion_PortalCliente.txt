@@ -1,0 +1,23 @@
+RELACION DE TABLAS > VISUALIZACION DE TIMELINE DE PROYECTOS
+
+Se debe visualizar el flujo de una operacion seleccionada (plasmado en el modulo de proyectos en ODOO) dado un cliente especifico
+
+1) identificacion de tablas o entidades
+	- project_project	(proyectos)
+	- project_task 		(tareas)
+	- res_users		(usuarios)	
+	- project_tags		(etiquetas)
+	- res_partners		(contactos => clientes)
+
+2) consulta sql aplicada para obtener los datos de los proyectos
+
+SELECT t.id as [task_id],t.kanban_state as [task_kanban_state],t.name as [task_name],t.date_start as [task_date_start], p.id as [project_id], p.name as [project_name] 
+FROM [project_task] t
+ INNER JOIN project_project p
+ON t.project_id = p.id
+WHERE t.partner_id = ???
+
+
+
+
+
